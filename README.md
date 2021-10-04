@@ -1,2 +1,2 @@
 # projekt_specjalizacja
-projekt
+projekt sd
